@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 '''
     Stratum mining proxy
     Copyright (C) 2012 Marek Palatinus <info@bitcoin.cz>
